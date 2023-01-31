@@ -1,16 +1,11 @@
-# ***Angry Bird***
-## _Autonomous Drone Delivery System_
+# **Angry Bird**
 
-___
+## Autonomous Drone Delivery System
 
-###  _In current days, e-commerce has become one of the emerging industries that require a lot of transportation. The packages received by the end user are delivered by the delivery boy belonging to the locality of the customer. This requires manpower as well as vehicles, which may or may not be eco-friendly._
-
----
+In current days, e-commerce has become one of the emerging industries that require a lot of transportation. The packages received by the end user are delivered by the delivery boy belonging to the locality of the customer. This requires manpower as well as vehicles, which may or may not be eco-friendly
 
 
-
-
-# **Proposed Solution:**
+## **Proposed Solution:**
 
 
 * Most economically developed countries adopt drone technology for end-user delivery. These drones are commercial and not open-source.
@@ -20,35 +15,28 @@ ___
 * To overcome this problem, we have made a fully customizable and autonomous drone, which can be controlled with the help of an Android app.
 
 * There is no need for manual instruction as the drone can detect the end delivery location of the package using a QR code attached to the package, or else delivery agencies can dispatch any packages using the Android app we made
----
-
-# **Methodology:**
-### The main component of the drone is the flight controller, which is connected to the Raspberry Pi using a serial connection. A python script is connected with the Firebase backend service. The algorithm in the script is capable of finding the destination location from the Firebase data and controlling the flying aspects of the drone.An Android app is made using Google’s new Flutter technology, which also has the same Firebase backend service. The delivery agent can scan the QR code in the package and instruct the Python script appropriately within the app.
-
----
 
 
-src="https://user-images.githubusercontent.com/112747138/215802611-d3aa7dca-0d8b-499c-95fb-ecaca71d4b86.jpg" height=40% width=40%
-
----
-
-![Image1](https://user-images.githubusercontent.com/112747138/215802756-5600083b-c887-43b3-a450-754a3fbc8160.jpg)
-
----
-![Image2](https://user-images.githubusercontent.com/112747138/215802846-38f2b82e-1c5c-4f90-b4d4-b3ce8e0e92a5.jpg)
-
----
-![Image3](https://user-images.githubusercontent.com/112747138/215802919-d0b447ed-2aba-4726-baad-19c84dacd6b8.jpg)
-
----
-![Image4](https://user-images.githubusercontent.com/112747138/215802994-5877ae7d-774d-4ecd-a1bd-65182180f4f2.jpg)
-
----
-## [Youtube Video Link](https://www.youtube.com/watch?v=kqYaZeBHdSA)
+## **Methodology:**
+The main component of the drone is the flight controller, which is connected to the Raspberry Pi using a serial connection. A python script is connected with the Firebase backend service. The algorithm in the script is capable of finding the destination location from the Firebase data and controlling the flying aspects of the drone.An Android app is made using Google’s new Flutter technology, which also has the same Firebase backend service. The delivery agent can scan the QR code in the package and instruct the Python script appropriately within the app.
 
 
----
+## **Screenshots:**
+<img src="https://user-images.githubusercontent.com/90544639/215802466-59f37835-5e69-48e2-8ae9-c49c704b072c.jpg" height="40%" width = "40%">
+<img src="https://user-images.githubusercontent.com/90544639/215802476-2c8a6e17-b06b-416a-b407-bb16e0ab4005.jpg" height="40%" width = "40%">
+<img src="https://user-images.githubusercontent.com/90544639/215802491-ac1cf72b-317a-4b38-a0a3-22a8b4714636.jpg" height="40%" width = "40%">
+<img src="https://user-images.githubusercontent.com/90544639/215802507-1f4f67a7-4c61-4225-9ee4-6f0ffed674ec.jpg" height="40%" width = "40%">
+<img src="https://user-images.githubusercontent.com/90544639/215802525-f769a078-e896-4807-9f6f-d2484ea396e7.jpg" height="40%" width = "40%">
+
+
+
+
+
+## **Youtube:**
+
+[click here](https://youtube.com/watch?v=kqYaZeBHdSA&feature=share) to view the implementation video.
+
 
 ## **Results:**
 
-### Our solution can enable delivery agencies to use drones efficiently for package delivery without the need for learning to fly a drone. Also, each employee can assign a specific drone for a particular package within the Android app, so the drone is not controlled by any computer or computer-related software. It is also eco-friendly and uses the shortest path from the source to the destination.
+Our solution can enable delivery agencies to use drones efficiently for package delivery without the need for learning to fly a drone. Also, each employee can assign a specific drone for a particular package within the Android app, so the drone is not controlled by any computer or computer-related software. It is also eco-friendly and uses the shortest path from the source to the destination.
