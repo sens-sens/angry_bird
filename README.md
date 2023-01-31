@@ -22,7 +22,7 @@ ___
 ---
 
 # **Methodology:**
-```The main component of the drone is the flight controller, which is connected to the Raspberry Pi using a serial connection. A python script is connected with the Firebase backend service. The algorithm in the script is capable of finding the destination location from the Firebase data and controlling the flying aspects of the drone.An Android app is made using Google’s new Flutter technology, which also has the same Firebase backend service. The delivery agent can scan the QR code in the package and instruct the Python script appropriately within the app.```
+The main component of the drone is the flight controller, which is connected to the Raspberry Pi using a serial connection. A python script is connected with the Firebase backend service. The algorithm in the script is capable of finding the destination location from the Firebase data and controlling the flying aspects of the drone.An Android app is made using Google’s new Flutter technology, which also has the same Firebase backend service. The delivery agent can scan the QR code in the package and instruct the Python script appropriately within the app.
 
 ---
 
@@ -45,4 +45,4 @@ ___
 
 ## **Results:**
 
-```Our solution can enable delivery agencies to use drones efficiently for package delivery without the need for learning to fly a drone. Also, each employee can assign a specific drone for a particular package within the Android app, so the drone is not controlled by any computer or computer-related software. It is also eco-friendly and uses the shortest path from the source to the destination.```
+Our solution can enable delivery agencies to use drones efficiently for package delivery without the need for learning to fly a drone. Also, each employee can assign a specific drone for a particular package within the Android app, so the drone is not controlled by any computer or computer-related software. It is also eco-friendly and uses the shortest path from the source to the destination.
