@@ -28,7 +28,7 @@ ___
 ---
 
 
-![Image](https://user-images.githubusercontent.com/112747138/215802611-d3aa7dca-0d8b-499c-95fb-ecaca71d4b86.jpg)
+src="https://user-images.githubusercontent.com/112747138/215802611-d3aa7dca-0d8b-499c-95fb-ecaca71d4b86.jpg" height=40% width=40%
 
 ---
 
