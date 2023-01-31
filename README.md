@@ -9,6 +9,7 @@ ___
 
 
 
+
 # **Proposed Solution:**
 
 
@@ -26,7 +27,7 @@ ___
 
 ---
 
-## ![Image Link](https://github.com/saravanan2k03/angry_bird/blob/main/Image.jpg)
+![Uploading Image.jpg…](https://github.com/saravanan2k03/angry_bird/blob/main/Image.jpg)
 
 ---
 ## ![Image Link](https://github.com/saravanan2k03/angry_bird/blob/main/Image1.jpg)
